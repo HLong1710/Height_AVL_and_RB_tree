@@ -1,0 +1,10 @@
+The height of Red-Black tree Data_Input_Array_1.txt: 26
+The height of Red-Black tree Data_Input_Array_2.txt: 25
+The height of Red-Black tree Data_Input_Array_3.txt: 25
+The height of Red-Black tree Data_Input_Array_4.txt: 25
+The height of Red-Black tree Data_Input_Array_5.txt: 25
+The height of Red-Black tree Data_Input_Array_6.txt: 25
+The height of Red-Black tree Data_Input_Array_7.txt: 25
+The height of Red-Black tree Data_Input_Array_8.txt: 25
+The height of Red-Black tree Data_Input_Array_9.txt: 25
+The height of Red-Black tree Data_Input_Array_10.txt: 25
